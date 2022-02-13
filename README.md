@@ -1,0 +1,1 @@
+A DDI (DHCP/DNS/IPAM) frontend built on React that leverages Powershell APIs for a Windows Server host.
